@@ -9,7 +9,7 @@
 
 - 📫 Você me acha através do email **thiagovporfirio@gmail.com**
 
-- 📄 Trabalhei um bom tempo na área comercial, mas agora estou migrando para programacao pois sempre foi um sonho. [https://www.linkedin.com/in/thiago-porfirio001/](https://www.linkedin.com/in/thiago-porfirio001/)
+- 📄 Trabalhei um bom tempo na área comercial, mas agora estou migrando para programacao pois sempre foi um sonho.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
