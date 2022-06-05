@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Me chamo thiago, e atualmente estou investindo em cripto moedas e me interesso por esses projetos na web3. Por 04 anos trabalhei na are comercial, sendo Engenheiro de vendas, mas sempre optei por tecnologia e entao em Jan/2022 comecei os estudos em Engenharia de Software para fazer a transição de carreira.
+  Me chamo Thiago, e atualmente estou investindo em cripto moedas e me interesso por esses projetos na web3. Por 04 anos trabalhei na are comercial, sendo Engenheiro de vendas, mas sempre optei por tecnologia e entao em Jan/2022 comecei os estudos em Engenharia de Software para fazer a transição de carreira.
 </p>
 
 <p align="left">
