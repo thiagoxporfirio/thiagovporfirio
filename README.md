@@ -5,7 +5,7 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>Javascript, Phyton</strong>
+  🦄 Linguagens: <strong>Javascript, Phyton, PHP</strong>
 </p>
 
 <p align="left">
