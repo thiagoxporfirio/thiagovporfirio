@@ -13,7 +13,7 @@ Me chamo Thiago, e atualmente participo do mundo das cripto moedas e estou estud
 </p>
 
 <p align="left">
-  💌 Entre em contato comigo pelo: ⤵️
+  💌 Entre em contato comigo pelo:  ⤵️
 </p>
 
 <p align="left">
