@@ -5,7 +5,7 @@ Me chamo Thiago, e atualmente participo do mundo das cripto moedas e estou estud
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>Javascript, Phyton, PHP</strong>
+  🦄 Linguagens: <strong>Javascript, Phyton</strong>
 </p>
 
 <p align="left">
