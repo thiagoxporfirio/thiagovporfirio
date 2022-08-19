@@ -42,4 +42,5 @@ Jul/2021 me despertou muita vontade em realizar um sonho que era estar na área 
   <img align="center" alt="html5" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" /></div>
   <br><br>
   
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thiagovporfirio&show_icons=true&locale=en&layout=compact" alt="thiagovporfirio" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thiagovporfirio&show_icons=true&locale=en&layout=compact" alt="thiagovporfirio" /><div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="thiagoxporfirio" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/thiagoxporfirio?trk=profile-badge">Thiago Porfirio</a></div>
+              </p>
