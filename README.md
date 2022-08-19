@@ -1,7 +1,11 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-Me chamo Thiago, e atualmente participo do mundo das cripto moedas e estou estudando tudo sobre Programação. Invisto no mercado a 03 anos e tenho um vasto conhecimento sobre o assunto. Sou formado em Engenharia Mecânica e por 04 anos trabalhei na área comercial sendo Engenheiro de vendas, realizando projetos e captando muito cliente e conhecimento. Jul/2021 me despertou muita vontade em realizar um sonho que era estar na área da tecnologia, algo que desde criança gostei muito. Iniciei meus estudos em Desenvolvimento Web e Desenvolvimento de Softwares e busco agora fazer a transição de carreira.
+Tenho 25 anos e atualmente participo do mundo das cripto moedas e estou estudando tudo sobre Programação. Invisto no mercado a 03 anos e tenho um vasto conhecimento sobre o assunto. Amo tecnologia, investimentos financeiros e sou um entusiasta do Bitcoin.
+
+Sou formado em Engenharia Mecânica e por 04 anos trabalhei na área comercial sendo Engenheiro de vendas, realizando projetos e captando muito cliente e conhecimento.
+
+Jul/2021 me despertou muita vontade em realizar um sonho que era estar na área da tecnologia, algo que desde criança gostei muito. Iniciei meus estudos em Desenvolvimento Web e Desenvolvimento de Softwares e busco agora fazer a transição de carreira.
 </p>
 
 <p align="left">
