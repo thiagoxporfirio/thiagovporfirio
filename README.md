@@ -3,9 +3,9 @@
 <p align="left"> 
 Tenho 25 anos e atualmente participo do mundo das cripto moedas e estou estudando tudo sobre Programação. Invisto no mercado a 03 anos e tenho um vasto conhecimento sobre o assunto. Amo tecnologia, investimentos financeiros e sou um entusiasta do Bitcoin.
 
-Sou formado em Engenharia Mecânica e por 04 anos trabalhei na área comercial sendo Engenheiro de vendas, realizando projetos e captando muito cliente e conhecimento.
+Quase me formei em Engenharia Mecânica rsrs e por 04 anos trabalhei na área comercial sendo Engenheiro de vendas, realizando projetos.
 
-Jul/2021 me despertou muita vontade em realizar um sonho que era estar na área da tecnologia, algo que desde criança gostei muito. Iniciei meus estudos em Desenvolvimento Web e Desenvolvimento de Softwares e busco agora fazer a transição de carreira.
+Jul/2021 me despertou muita vontade em realizar um sonho que era estar na área da tecnologia, algo que desde criança gostei muito. Iniciei meus estudos na faculdade em Engenharia de Software e venho fazendo outros cursos do mesmo seguimento para aprimorar minhas habilidades.
 </p>
 
 <p align="left">
