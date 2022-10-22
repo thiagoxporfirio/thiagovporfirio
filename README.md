@@ -21,7 +21,7 @@ Jul/2021 me despertou muita vontade em realizar um sonho que era estar na área 
 </p>
 
 <p align="left">
-  <a href=mailto:thiagovporfirio@gmail.com<nowiki>Oi me escreva oque voce esta pensando ?subject="" alt="Gmail">
+  <a href=mailto:thiagovporfirio@gmail.com alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
 
   <a href="https://www.linkedin.com/in/thiagoxporfirio/" alt="Linkedin">
