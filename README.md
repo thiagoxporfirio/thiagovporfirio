@@ -9,7 +9,7 @@ Jul/2021 me despertou muita vontade em realizar um sonho que era estar na área 
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>Javascript, Phyton, Typescript, React.js</strong>
+  🦄 Linguagens: <strong>Javascript, Typescript, React.Js, Next.Js, Go</strong>
 </p>
 
 <p align="left">
