@@ -1,11 +1,8 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-Tenho 25 anos e atualmente participo do mundo das cripto moedas e estou estudando tudo sobre Programação. Invisto no mercado a 03 anos e tenho um vasto conhecimento sobre o assunto. Amo tecnologia, investimentos financeiros e sou um entusiasta do Bitcoin.
-
-Quase me formei em Engenharia Mecânica rsrs e por 04 anos trabalhei na área comercial sendo Engenheiro de vendas, realizando projetos.
-
-Jul/2021 me despertou muita vontade em realizar um sonho que era estar na área da tecnologia, algo que desde criança gostei muito. Iniciei meus estudos na faculdade em Engenharia de Software e venho fazendo outros cursos do mesmo seguimento para aprimorar minhas habilidades.
+Thiago tem 25 anos e sempre foi apaixonado por tecnologia, desde criança manteve ate os dias atuais, contato com o computador(TI).
+Aos 18 anos por influência de seu pai se matriculou na faculdade no curso de Eng. Mecânica, onde construiu uma carreira comercial e por conhecimentos adquiridos na faculdade o ajudou a ser eng. de aplicação, dentro de uma empresa no qual ficou por 5 anos. Em jul/2021 se sente deslocado na sua profissão, então decide voltar atrás do seu sonho e começou os estudos no mundo de Desenvolvimento Web, logo após se sentindo novo e esperançoso se matricula em uma nova faculdade no curso de Eng. de Software, e esta se aperfeiçoando para ser um Desenvolvedor front-end em stacks como: Javascript, Typescript, Reactjs, Nextjs, Nodejs.
 </p>
 
 <p align="left">
