@@ -1,8 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-Thiago tem 25 anos e sempre foi apaixonado por tecnologia, desde criança manteve ate os dias atuais, contato com o computador(TI).
-Aos 18 anos por influência de seu pai se matriculou na faculdade no curso de Eng. Mecânica, onde construiu uma carreira comercial e por conhecimentos adquiridos na faculdade o ajudou a ser eng. de aplicação, dentro de uma empresa no qual ficou por 5 anos. Em jul/2021 se sente deslocado na sua profissão, então decide voltar atrás do seu sonho e começou os estudos no mundo de Desenvolvimento Web, logo após se sentindo novo e esperançoso se matricula em uma nova faculdade no curso de Eng. de Software, e esta se aperfeiçoando para ser um Desenvolvedor front-end em stacks como: Javascript, Typescript, Reactjs, Nextjs, Nodejs.
+Estudante de Engenharia de Software, se especializando em Desenvolvimento Full Stack abordando tecnologias como Javascript, ReactJs, Typescript, Nodejs, Docker e banco de dados relacionais.
 </p>
 
 <p align="left">
